@@ -1,0 +1,5 @@
+networkx
+matplotlib
+dimod
+dwave-ocean-sdk
+numpy
